@@ -1,0 +1,8 @@
+1.ActivitiDeployment   流程的部署
+2.ActivitiStartInstance  创建一个流程实例
+3.ActivitiTaskQuery    查找流程(获取用户待处理的流程)
+4.ActivitiCompleteTask   完成一个流程
+5.QueryProcessDefinition  查询流程定义的信息
+6.DeleteProcessDefinition  删除一个定义流程(级联删除)
+7.QueryBpmnFile    资源文件的读取 png bpmn文件读取
+8.HistoryQuery     历史查询

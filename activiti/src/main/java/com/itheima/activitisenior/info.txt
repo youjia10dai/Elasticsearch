@@ -1,0 +1,4 @@
+1.BusinessKeyAdd  activiti 关联上业务逻辑
+2.SuspendProcessInstance    全部挂起或激活全部流程
+3.SuspendProcessInstancePerson    个人流程的挂起或激活
+4.AssigneeUEL  动态设置审批人,通过表达式的方式
